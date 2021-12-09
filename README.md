@@ -1,9 +1,5 @@
-**#Sistema de reservas para hospedagem**
-
-Sistema de reservas de hospedagem criado para fins de aprendizado
-
-
 # Sistema de reservas de hospedagens
+Desenvolvido para fins de aprendizado
 
 CRUD com os domínios abaixo:
 
